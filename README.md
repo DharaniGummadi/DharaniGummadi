@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DharaniGummadi
+- 👋 Hi, I’m DharaniGummadi
 - 👩‍🎓 I’m a student
 
 - 👀 I’m looking for an internship as a Frontend Developer

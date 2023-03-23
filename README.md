@@ -15,11 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dharani-gummadi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dharani-gummadi/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/dharani-gummadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dharani-gummadi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dharani-gummadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharani-gummadi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/dharani gummadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dharani gummadi" height="30" width="40" /></a>
 <a href="https://kaggle.com/dharanigummadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dharanigummadi" height="30" width="40" /></a>
 <a href="https://medium.com/@dharanigummadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dharanigummadi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dharanigummadi30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dharanigummadi30" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dharani gummadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dharani gummadi" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/dharanigugrcv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dharanigugrcv" height="30" width="40" /></a>
 <a href="https://discord.gg/5455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5455" height="30" width="40" /></a>
 </p>
@@ -32,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharanigummadi&show_icons=true&locale=en" alt="dharanigummadi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharanigummadi&" alt="dharanigummadi" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharanigummadi" alt="dharanigummadi" /></a> </p>

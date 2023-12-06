@@ -1,8 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m Dharani Gummadi <br>
-👀 I’m interested in Data Science and Software Development.<br>
 🌱 I’m currently a undergraduate student at QIS College Of Engineering & Technology<br>
-🌱 I’m currently learning Advance Java<br>💬 Ask me about Python and SQL <br>
 📫 Reach me on LinkedIn: https://www.linkedin.com/in/dharani-gummadi/<br>
 
 ## 🌐 Socials:

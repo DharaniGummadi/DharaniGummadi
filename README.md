@@ -20,4 +20,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=DharaniGummadi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-![](https://visitcount.itsvg.in/api?id=DharaniGummadi&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DharaniGummadi&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
